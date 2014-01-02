@@ -1,0 +1,33 @@
+lib/main.o: lib/main.c lib/config.h /usr/include/locale.h \
+ /usr/include/features.h /usr/include/stdc-predef.h \
+ /usr/include/i386-linux-gnu/bits/predefs.h \
+ /usr/include/i386-linux-gnu/sys/cdefs.h \
+ /usr/include/i386-linux-gnu/bits/wordsize.h \
+ /usr/include/i386-linux-gnu/gnu/stubs.h \
+ /usr/include/i386-linux-gnu/gnu/stubs-32.h \
+ /usr/lib/gcc/i686-linux-gnu/4.7/include/stddef.h \
+ /usr/include/i386-linux-gnu/bits/locale.h /usr/include/xlocale.h
+
+lib/config.h:
+
+/usr/include/locale.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/i386-linux-gnu/bits/predefs.h:
+
+/usr/include/i386-linux-gnu/sys/cdefs.h:
+
+/usr/include/i386-linux-gnu/bits/wordsize.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs.h:
+
+/usr/include/i386-linux-gnu/gnu/stubs-32.h:
+
+/usr/lib/gcc/i686-linux-gnu/4.7/include/stddef.h:
+
+/usr/include/i386-linux-gnu/bits/locale.h:
+
+/usr/include/xlocale.h:
